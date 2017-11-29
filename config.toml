@@ -2,18 +2,18 @@
 theme = "hugo-icon"
 baseURL = "/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Welcome to cloudgear.io"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "Dwai"
+  description = "The Legend"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  title = "Create awesome things for better using cloud GPUs and Edge Devices"
+  description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com"
 
 # Navigation section
 [params.nav]
@@ -150,9 +150,9 @@ title = "My Awesome Title"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.team.item]]
-    name = "Jean Doe"
+    name = "Dwai Banerjee"
     position = "Chief legend"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Automation paranoid and chief GPU Cluster spinner"
     img = "images/person1.jpg"
     facebook = "#"
     twitter = "#"
@@ -162,9 +162,9 @@ title = "My Awesome Title"
     linkedin = "#"
 
   [[params.team.item]]
-    name = "Alice Doe"
+    name = "Sachin Jambhulkar"
     position = "Chief overlord"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Linux geek and program writer"
     img = "images/person2.jpg"
     facebook = "#"
     twitter = "#"
