@@ -1,147 +1,220 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Strata"
-theme = "hugo-strata-theme"
-disqusShortname = "spf13"
-# Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
-# Define how many posts should appear on a site
-paginate = 10
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "/"
+languageCode = "en-AU"
+title = "Welcome to cloudgear.io"
 
+# Metadata
 [params]
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
+  author = "Dwai"
+  description = "The Legend"
 
-	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Create awesome things for better using cloud GPUs and Edge Devices"
+  description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com"
+  github = "https://github.com/cloudgear-io"
+  twitter = "https://twitter.com/cloudgeario"
+  #facebook = "#"
+  #vine = "#"
+  linkedin = "https://www.linkedin.com/company/9468104/"
+  #instagram = "#"
 
-	# Add read time estimates in the format "X min read"
-	show_read_time = false
+# Navigation section
+[params.nav]
+  mission = "Our Mission"
+  services = "Services"
+  team = "The Team"
+  contact = "Get In Touch"
+  # Include logo instead if HOME:
+  # logo = "path/to/logo"
 
-	# Add custom assets with their paths relative to the static folder
-	custom_js   = []
-	custom_css  = []
+# Mission section
+[params.mission]
+  enable = true
 
+  [params.mission.images]
+    enable = true
 
-	[params.sidebar]
-		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
-		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
-		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		gitlab = "spf13"
-		dribbble = ""
-		facebook = ""
-		googleplus = ""
-		flickr = ""
-		linkedin = ""
+    [[params.mission.images.list]]
+      img = "images/img_3.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_2.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_1.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_4.jpg"
 
-		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
-		]
+  [[params.mission.item]]
+    weight = 1
+    name = "marketing"
+    title = "Marketing"
+    subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
+    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
+  [[params.mission.item]]
+    weight = 2
+    name = "analysis"
+    title = "Resources"
+    subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
+    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-	[params.about]
-		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+  [[params.mission.item]]
+    weight = 3
+    name = "strategy"
+    title = "Strategy"
+    subtitle = "Magnam iste obcaecati illo laboriosam amet. Dignissimos sed quis voluptatum corporis adipisci amet."
+    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
+# Services section
+[params.services]
+  enable = true
+  video = true
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Our Services"
+  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-	[params.portfolio]
-		hide  = false
-		title = "Recent Work"
+  [[params.services.item]]
+    icon = "icon-present"
+    title = "Web Development"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+  [[params.services.item]]
+    icon = "icon-eye"
+    title = "Retina Ready"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+  [[params.services.item]]
+    icon = "icon-paper-plane"
+    title = "Light Speed"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+  [[params.services.item]]
+    icon = "icon-pencil"
+    title = "Copyrighting"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+  [[params.services.item]]
+    icon = "icon-rocket"
+    title = "Load Fast"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+  [[params.services.item]]
+    icon = "icon-support"
+    title = "Customer Support"
+    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+# Work section
+[params.work]
+  enable = true
 
-	[params.recentposts]
-		hide  = false
-		title = "Recent blog posts"
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_1.jpg"
 
-	[params.contact]
-		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
 
-		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
-		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
-		]
-		phone = "000-000-0000"
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
 
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
 
-		[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			name = "Name"
-			email = "Email"
-			message = "Message"
-			submit = "Send message"
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
 
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
 
-# Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 10
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
 
-[[menu.main]]
-	name = "Blog"
-	url  = "post/"
-	weight = 0
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_4.jpg"
+
+# Team section
+[params.team]
+  enable = true
+  title = "Meet The Team"
+  description = "cloudgear is lean and automated"
+
+  [[params.team.item]]
+    name = "Dwai Banerjee"
+    position = "Chief legend"
+    description = "Automation paranoid and chief GPU Cluster spinner"
+    img = "images/person1.jpg"
+    facebook = "https://facebook.com/dwaib"
+    twitter = "https://twitter.com/cloudgeario"
+    #dribbble = "#"
+    #instagram = "#"
+    github = "https://github.com/dwaiba"
+    linkedin = "https://linkedin.com/in/dbanerj"
+
+  [[params.team.item]]
+    name = "Sachin Jambhulkar"
+    position = "Chief overlord"
+    description = "Linux geek and program writer"
+    img = "images/person2.jpg"
+    facebook = "#"
+    twitter = "#"
+    dribbble = "#"
+    instagram = "#"
+    github = "#"
+
+ # [[params.team.item]]
+ #   name = "John Doe"
+ #   position = "Chief haranguer"
+ #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+ #   img = "images/person3.jpg"
+ #   facebook = "#"
+ #   twitter = "#"
+ #   dribbble = "#"
+ #   instagram = "#"
+ #   github = "#"
+
+  # [[params.team.item]]
+  #   name = "Jason Doe"
+  #   position = "Chief haranguer"
+  #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  #   img = "images/person3.jpg"
+  #   facebook = "#"
+  #   twitter = "#"
+  #   dribbble = "#"
+  #   instagram = "#"
+  #   github = "#"
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Get In Touch"
+  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2017. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  github = "https://github.com/cloudgear-io"
+  twitter = "https://twitter.com/cloudgeario"
+  #facebook = "#"
+  #vine = "#"
+  linkedin = "https://www.linkedin.com/company/9468104/"
+  #instagram = "#"
+  
