@@ -2,18 +2,24 @@
 theme = "hugo-icon"
 baseURL = "/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Welcome to cloudgear.io"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "Dwai"
+  description = "The Legend"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  title = "Create awesome things for better using cloud GPUs and Edge Devices"
+  description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com"
+  github = "https://github.com/cloudgear-io"
+  twitter = "https://twitter.com/cloudgeario"
+  #facebook = "#"
+  #vine = "#"
+  linkedin = "https://www.linkedin.com/company/9468104/"
+  #instagram = "#"
 
 # Navigation section
 [params.nav]
@@ -147,24 +153,24 @@ title = "My Awesome Title"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  description = "cloudgear is lean and automated"
 
   [[params.team.item]]
-    name = "Jean Doe"
+    name = "Dwai Banerjee"
     position = "Chief legend"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Automation paranoid and chief GPU Cluster spinner"
     img = "images/person1.jpg"
-    facebook = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
-    linkedin = "#"
+    facebook = "https://facebook.com/dwaib"
+    twitter = "https://twitter.com/cloudgeario"
+    #dribbble = "#"
+    #instagram = "#"
+    github = "https://github.com/dwaiba"
+    linkedin = "https://linkedin.com/in/dbanerj"
 
   [[params.team.item]]
-    name = "Alice Doe"
+    name = "Sachin Jambhulkar"
     position = "Chief overlord"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "Linux geek and program writer"
     img = "images/person2.jpg"
     facebook = "#"
     twitter = "#"
@@ -172,16 +178,16 @@ title = "My Awesome Title"
     instagram = "#"
     github = "#"
 
-  [[params.team.item]]
-    name = "John Doe"
-    position = "Chief haranguer"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-    img = "images/person3.jpg"
-    facebook = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
+ # [[params.team.item]]
+ #   name = "John Doe"
+ #   position = "Chief haranguer"
+ #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+ #   img = "images/person3.jpg"
+ #   facebook = "#"
+ #   twitter = "#"
+ #   dribbble = "#"
+ #   instagram = "#"
+ #   github = "#"
 
   # [[params.team.item]]
   #   name = "Jason Doe"
@@ -204,11 +210,11 @@ title = "My Awesome Title"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
-  twitter = "#"
-  facebook = "#"
-  vine = "#"
-  linkedin = "#"
-  instagram = "#"
+  note = "<p><small>&copy; 2017. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  github = "https://github.com/cloudgear-io"
+  twitter = "https://twitter.com/cloudgeario"
+  #facebook = "#"
+  #vine = "#"
+  linkedin = "https://www.linkedin.com/company/9468104/"
+  #instagram = "#"
   
