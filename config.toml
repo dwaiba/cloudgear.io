@@ -147,7 +147,7 @@ title = "Welcome to cloudgear.io"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "cloudgear is lean and automated
+  description = "cloudgear is lean and automated"
 
   [[params.team.item]]
     name = "Dwai Banerjee"
