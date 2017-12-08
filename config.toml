@@ -12,7 +12,7 @@ title = "Welcome to cloudgear.io"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better using cloud GPUs and Edge Devices"
+  title = "Create awesome things for better using cloud GPUs and Edge Devices. Sitting with Manoj"
   description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com"
   github = "https://github.com/cloudgear-io"
   twitter = "https://twitter.com/cloudgeario"
