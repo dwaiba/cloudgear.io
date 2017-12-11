@@ -13,7 +13,7 @@ title = "Welcome to cloudgear.io"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "Create awesome things for better using cloud GPUs and Edge Devices."
-  description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com. With mukund"
+  description = "Using the Lovingly hand-crafted Hugo Theme by the fine folks at [FreeHTML5.co](http://freehtml5.co/) via netlify.com."
   github = "https://github.com/cloudgear-io"
   twitter = "https://twitter.com/cloudgeario"
   #facebook = "#"
