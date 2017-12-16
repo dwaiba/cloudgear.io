@@ -93,7 +93,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-pencil"
     title = "Toolkit usage experience"
-    description = "Use any of your toolkits with the latest optiona nvdia dockerized or baremetal. CNTK, Tensorflow, Keras, Caffe2 usage with or without DIGITS."
+    description = "Use any of your toolkits with the latest options, nvidia dockerized or baremetal. CNTK, Tensorflow, Keras, Caffe2 usage with or without DIGITS."
 
   [[params.services.item]]
     icon = "icon-rocket"
