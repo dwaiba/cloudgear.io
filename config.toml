@@ -83,7 +83,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-eye"
     title = "Intelligent microservices"
-    description = "Monitored, autoscaled, regiatered, cross cloud, immutable. Pure code control."
+    description = "Monitored, autoscaled, registered, cross cloud, immutable. Pure code control."
 
   [[params.services.item]]
     icon = "icon-paper-plane"
