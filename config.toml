@@ -32,10 +32,10 @@ title = "Welcome to cloudgear.io"
 
 # Mission section
 [params.mission]
-  enable = true
+  enable = false
 
   [params.mission.images]
-    enable = true
+    enable = false
 
     [[params.mission.images.list]]
       img = "images/img_3.jpg"
