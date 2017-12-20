@@ -93,12 +93,17 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-github"
     title = "Open Source is good"
-    description = "We believe in Open Source. Spin up some cloud GPu Clusters from our github and contribute. <a href='https://github.com/cloudgear-io' target='_blank'>github</a> "
+    description = "We believe in Open Source. Spin up some cloud GPU/HPC Clusters from our <a href='https://github.com/cloudgear-io' target='_blank'>github</a> and contribute."
 
   [[params.services.item]]
     icon = "icon-pencil"
     title = "Toolkit usage experience"
     description = "Use any of your toolkits with the latest options, nvidia dockerized or baremetal. CNTK, Tensorflow, Keras, Caffe2 usage with or without DIGITS."
+  
+  [[params.services.item]]
+    icon = "icon-trademark"
+    title = "cloudgear TM"
+    description = "Cloudgear is a <a href='http://ipindiaonline.gov.in/eregister/showdoc.aspx?document_no=WFlaW1xdKC8wKyknLSlYWVpbXF0=' target='_blank'>registered trademark</a> in the GOI Trademarks registry."
 
   [[params.services.item]]
     icon = "icon-rocket"
