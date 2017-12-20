@@ -169,7 +169,7 @@ title = "Welcome to cloudgear.io"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "cloudgear is lean and automated, headquartered in Bangalore"
+  description = "cloudgear is lean and automated, headquartered in Bangalore. Hit poke@cloudgear.io for the demos and more."
 
  # [[params.team.item]]
  #   name = "John Doe"
