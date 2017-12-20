@@ -115,10 +115,6 @@ title = "Welcome to cloudgear.io"
     title = "Load Fast"
     description = "Innovative large cloud native storage options. Use with GPU aware CMPs like Kubernetes."
   
-  [[params.services.item]]
-    icon = "icon-leaf"
-    title = "Location"
-    description = "We are head-quartered in Bangalore working across the world. <a href='mailto:poke@cloudgear.io' target='_blank'>poke us</a>."
 
   [[params.services.item]]
     icon = "icon-support"
@@ -173,7 +169,7 @@ title = "Welcome to cloudgear.io"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "cloudgear is lean and automated"
+  description = "cloudgear is lean and automated, headquartered in Bangalore"
 
  # [[params.team.item]]
  #   name = "John Doe"
@@ -189,7 +185,7 @@ title = "Welcome to cloudgear.io"
   [[params.team.item]]
     name = "Dwai Banerjee"
     position = "Chief legend"
-    description = "Automation paranoid & Cluster spinner"
+    description = "Automation paranoid"
     img = "images/person1.jpg"
     #facebook = "https://facebook.com/dwaib"
     twitter = "https://twitter.com/cloudgeario"
