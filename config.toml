@@ -203,7 +203,7 @@ title = "Welcome to cloudgear.io"
     twitter = "https://twitter.com/cloudgeario"
     #dribbble = "#"
     #instagram = "#"
-    #github = "#"
+    github = "https://github.com/cloudgear-io"
     linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
 
   # [[params.team.item]]
