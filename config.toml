@@ -78,7 +78,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-present"
     title = "GPU Direct as a service"
-    description = "Optimal automated Tensor core usage for the hard cases. Lets you focus on your problem without the complexities of the perfect GPU Fabric grid."
+    description = "Lets you focus on your problem without the complexities of the perfect GPU Fabric grid."
 
   [[params.services.item]]
     icon = "icon-eye"
@@ -93,7 +93,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-cubes"
     title = "Tactical elastic Topologies"
-    description = "Tactical and optimized toipologies bring the best out of HPC/GPU Fabrics and cloudgear fast automates the same. "
+    description = "Tactical topologies leverage the best of HPC/GPU Fabrics and cloudgear fast automates the same."
   
   [[params.services.item]]
     icon = "icon-github"
@@ -103,7 +103,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-pencil"
     title = "Toolkit usage experience"
-    description = "Use any of your toolkits with the latest options, nvidia dockerized or baremetal. CNTK, Tensorflow, Keras, Caffe2 usage with or without DIGITS."
+    description = "Use any of your toolkits with the latest options, nvidia dockerized or baremetal."
   
   [[params.services.item]]
     icon = "icon-trademark"
@@ -116,7 +116,7 @@ title = "Welcome to cloudgear.io"
     description = "Innovative large cloud native storage options. Use with GPU aware CMPs like Kubernetes."
   
   [[params.services.item]]
-    icon = "icon-address-book"
+    icon = "icon-leaf"
     title = "Location"
     description = "We are head-quartered in Bangalore working across the world. <a href='mailto:poke@cloudgear.io' target='_blank'>poke us</a>."
 
