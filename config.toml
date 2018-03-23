@@ -119,7 +119,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-support"
     title = "Customer Support"
-    description = "We support for your workflow's total glory and staying ahead of your competition."
+    description = "Please poke@cloudgear.io for support on your apps."
 
 # Work section
 [params.work]
