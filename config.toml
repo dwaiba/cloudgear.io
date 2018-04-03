@@ -103,7 +103,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-pencil"
     title = "Toolkit usage experience"
-    description = "Use any of your toolkits with the latest options, nvidia dockerized or baremetal."
+    description = "Use any of your <a href='https://developer.nvidia.com/deep-learning-frameworks' target='_blank'>toolkits</a> with the latest options, nvidia dockerized or baremetal."
   
   [[params.services.item]]
     icon = "icon-trademark"
