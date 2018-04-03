@@ -169,7 +169,7 @@ title = "Welcome to cloudgear.io"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "cloudgear is lean and automated, headquartered in Bangalore. Hit poke@cloudgear.io for the demos and more."
+  description = "cloudgear is lean and automated, headquartered in Bangalore. Please fill in the contact form for slack notification and/or hit <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for the demos and more."
 
  # [[params.team.item]]
  #   name = "John Doe"
@@ -221,7 +221,7 @@ title = "Welcome to cloudgear.io"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Hit the submit or poke@cloudgear.io"
+  message = "Please fill in the contact form for slack notification and/or hit <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a>"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
