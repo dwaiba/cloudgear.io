@@ -119,7 +119,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-slack"
     title = "Customer Support"
-    description = "Please fill in the contact form for slack notification and/or <a href="mailto:poke@cloudgear.io" target='_blank'>poke@cloudgear.io</a> for support on your apps."
+    description = "Please fill in the contact form for slack notification and/or <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for support on your apps."
 
 # Work section
 [params.work]
