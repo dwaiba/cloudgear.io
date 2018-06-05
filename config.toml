@@ -12,8 +12,8 @@ title = "Welcome to cloudgear.io"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better using cloud GPUs and Edge Devices."
-  description = "Harness the power for a fast automated world with Mr.Gopinathan."
+  title = "Create awesome things for better using cloud GPUs and Edge Devices with Debjit."
+  description = "Harness the power for a fast automated world."
   github = "https://github.com/cloudgear-io"
   twitter = "https://twitter.com/cloudgeario"
   #facebook = "#"
