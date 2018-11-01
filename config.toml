@@ -98,7 +98,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-github"
     title = "Open Source is good"
-    description = "We believe in Open Source. Spin up some cloud GPU/HPC Clusters from our <a href='https://github.com/cloudgear-io' target='_blank'>github</a> and <a href='https://github.com/cloudgear-io/azure-bigcompute/blob/master/README.md#patches-and-pull-requests' target='_blank'>contribute</a>. Please feel free to use and contribute to our <a href='http://blogs.cloudgear.io/about/' target='_blank'>maintained projects</a>."
+    description = "We believe in Open Source. Please feel free to use and contribute to our <a href='http://blogs.cloudgear.io/about/' target='_blank'>maintained projects</a>."
 
   [[params.services.item]]
     icon = "icon-pencil"
