@@ -197,7 +197,7 @@ title = "Welcome to cloudgear.io"
   [[params.team.item]]
     name = "Sachin Jambhulkar"
     position = "Chief overlord"
-    description = "Loves Linux & program writer"
+    description = "Program writer"
     img = "images/person2.jpg"
     #facebook = "#"
     twitter = "https://twitter.com/cloudgeario"
