@@ -208,7 +208,7 @@ title = "Welcome to cloudgear.io"
 
   [[params.team.item]]
     name = "Sandeep Agarwal"
-    position = "Goldfinger "
+    position = "Goldfinger         "
     description = "Business as usual"
     img = "images/person3.jpg"
     #facebook = "#"
