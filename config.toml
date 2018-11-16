@@ -206,16 +206,17 @@ title = "Welcome to cloudgear.io"
     github = "https://github.com/cloudgear-io"
     linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
 
-  # [[params.team.item]]
-  #   name = "Jason Doe"
-  #   position = "Chief haranguer"
-  #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-  #   img = "images/person3.jpg"
-  #   facebook = "#"
-  #   twitter = "#"
-  #   dribbble = "#"
-  #   instagram = "#"
-  #   github = "#"
+  [[params.team.item]]
+    name = "Sandeep Agarwal"
+    position = "Goldfinger"
+    description = "Business as usual"
+    img = "images/IMG-20150508-WA0014.jpg"
+    #facebook = "#"
+    twitter = "https://twitter.com/sandyagarwal"
+    #dribbble = "#"
+    #instagram = "#"
+    #github = "https://github.com/cloudgear-io"
+    linkedin = "https://www.linkedin.com/in/sandyagrwl/"
 
 # Contact section
 [params.contact]
