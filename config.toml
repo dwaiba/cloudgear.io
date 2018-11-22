@@ -226,7 +226,7 @@ title = "Welcome to cloudgear.io"
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
-  message_placeholder = "Please enter a message to cloudgear.io. Please tick the checkbox on reCAPTCHA for proving you are not a Robot."
+  message_placeholder = "Message to cloudgear.io after reCAPTCHA."
   button_text = "Submit after reCAPTCHA"
 
 # Footer section
