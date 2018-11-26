@@ -210,7 +210,7 @@ title = "Welcome to cloudgear.io"
   [[params.team.item]]
     name = "Manuj Sharma"
     position = "Lord Voldemort"
-    description = "The value of an idea lies in the using of it."
+    description = "Avada Kedavra!"
     img = "images/0.jpeg"
     #facebook = "#"
     twitter = "https://twitter.com/cloudgeario"
