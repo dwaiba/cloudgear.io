@@ -218,6 +218,18 @@ title = "Welcome to cloudgear.io"
     github = "https://github.com/cloudgear-io"
     linkedin = "https://www.linkedin.com/in/sandyagrwl/"
 
+  [[params.team.item]]
+    name = "Manuj Sharma"
+    position = "Lord Voldemort"
+    description = "The value of an idea lies in the using of it."
+    img = "images/0.jpeg"
+    #facebook = "#"
+    twitter = "https://twitter.com/cloudgeario"
+    #dribbble = "#"
+    #instagram = "#"
+    github = "https://github.com/cloudgear-io"
+    linkedin = "https://www.linkedin.com/in/manuj-sharma-a6941412/"
+
 # Contact section
 [params.contact]
   enable = true
