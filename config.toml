@@ -113,7 +113,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-rocket"
     title = "Load Fast"
-    description = "Innovative large cloud native storage options. Use with GPU aware CMPs like Kubernetes."
+    description = "Innovative large cloud native storage options. Use with GPU aware CMPs like Kubernetes With Harsha."
   
 
   [[params.services.item]]
