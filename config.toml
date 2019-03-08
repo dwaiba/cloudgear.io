@@ -196,30 +196,6 @@ title = "Welcome to cloudgear.io"
     linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
 
   [[params.team.item]]
-    name = "Sandeep Agarwal"
-    position = "Goldfinger         "
-    description = "Business as usual"
-    img = "images/person3.jpg"
-    #facebook = "#"
-    twitter = "https://twitter.com/sandyagrwl"
-    #dribbble = "#"
-    #instagram = "#"
-    github = "https://github.com/cloudgear-io"
-    linkedin = "https://www.linkedin.com/in/sandyagrwl/"
-
-  [[params.team.item]]
-    name = "Manuj Sharma"
-    position = "Lord Voldemort"
-    description = "Avada Kedavra!"
-    img = "images/0.jpeg"
-    #facebook = "#"
-    twitter = "https://twitter.com/cloudgeario"
-    #dribbble = "#"
-    #instagram = "#"
-    github = "https://github.com/cloudgear-io"
-    linkedin = "https://www.linkedin.com/in/manuj-sharma-a6941412/"
-
-  [[params.team.item]]
     name = "Soumya Ranjan Rout"
     position = "Thor"
     description = "Thunder from Above"
