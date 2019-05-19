@@ -171,17 +171,17 @@ title = "Welcome to cloudgear.io"
   title = "Meet The Team"
   description = "cloudgear is lean and automated, headquartered in Bangalore. Please fill in the contact form for slack notification and/or hit <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for the demos and more."
 
-#  [[params.team.item]]
-#    name = "Dwai Banerjee"
-#    position = "Chief legend"
-#    description = "Automation paranoid"
-#    img = "images/person1.jpg"
+  [[params.team.item]]
+    name = "Dwai Banerjee"
+    position = "Chief legend"
+    description = "Automation paranoid"
+    img = "images/person1.jpg"
     #facebook = "https://facebook.com/dwaib"
-#    twitter = "https://twitter.com/cloudgeario"
+    twitter = "https://twitter.com/cloudgeario"
     #dribbble = "#"
     #instagram = "#"
-#    github = "https://github.com/dwaiba"
-#    linkedin = "https://linkedin.com/in/dbanerj"
+    github = "https://github.com/dwaiba"
+    linkedin = "https://linkedin.com/in/dbanerj"
 
   [[params.team.item]]
     name = "Sachin Jambhulkar"
