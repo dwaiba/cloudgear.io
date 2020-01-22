@@ -119,7 +119,7 @@ title = "Welcome to cloudgear.io"
   [[params.services.item]]
     icon = "icon-slack"
     title = "Customer Support"
-    description = "Please fill in the contact form for slack notification and/or <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for support on your apps."
+    description = "cloudgear.io workspace is presently located at <a href='http://www.incubex.in' target='_blank'>incubex.in</a> and please drop by via the <a href='https://www.google.com/maps/place/Incubex+Manyata+Tech+Park/@13.0499179,77.6191588,15z/data=!4m5!3m4!1s0x0:0x610d8c3caf4ec3aa!8m2!3d13.0499179!4d77.6191588'>google maps pin</a>. Please fill in the contact form for slack notification and/or <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for support on your apps."
 
 # Work section
 [params.work]
