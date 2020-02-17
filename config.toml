@@ -13,7 +13,7 @@ title = "Welcome to cloudgear.io"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "Create awesome things for better using cloud GPUs and Edge Devices."
-  description = "Harness the power for a fast automated world with Jamm."
+  description = "Harness the power for a fast automated world."
   github = "https://github.com/cloudgear-io"
   twitter = "https://twitter.com/cloudgeario"
   #facebook = "#"
