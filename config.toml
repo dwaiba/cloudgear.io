@@ -211,7 +211,7 @@ title = "Welcome to cloudgear.io"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Please fill in the contact form for slack notification and/or hit <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a>"
+  message = "Please fill in the <a href='http://bit.ly/3c9MtjA' target='_blank'>questionnaire</a> if possible and use the contact form for slack notification"
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
