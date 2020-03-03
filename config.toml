@@ -198,7 +198,7 @@ title = "Welcome to cloudgear.io"
   [[params.team.item]]
     name = "Arindam  Karmakar"
     position = "Chief Sales Officer"
-#    description = "Thunder from Above"
+    description = "The best way to predict the future is to create it."
     img = "images/person3.jpg"
     #facebook = "https://facebook.com/dwaib"
     twitter = "https://twitter.com/arindamkarmakar"
