@@ -173,7 +173,7 @@ title = "Welcome to cloudgear.io"
 
   [[params.team.item]]
     name = "Dwai Banerjee"
-    position = "Chief legend"
+    position = "Focussed"
     description = "Automation paranoid"
     img = "images/person1.jpg"
     #facebook = "https://facebook.com/dwaib"
