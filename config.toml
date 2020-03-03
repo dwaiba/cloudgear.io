@@ -174,7 +174,7 @@ title = "Welcome to cloudgear.io"
   [[params.team.item]]
     name = "Dwai Banerjee"
     position = "Focussed"
-    description = "Automation paranoid"
+    description = ""
     img = "images/person1.jpg"
     #facebook = "https://facebook.com/dwaib"
     twitter = "https://twitter.com/cloudgeario"
@@ -185,7 +185,7 @@ title = "Welcome to cloudgear.io"
 
   [[params.team.item]]
     name = "Sachin Jambhulkar"
-    position = "Chief overlord"
+    position = ""
     description = "Program writer"
     img = "images/person2.jpg"
     #facebook = "#"
