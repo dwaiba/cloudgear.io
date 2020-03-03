@@ -195,17 +195,17 @@ title = "Welcome to cloudgear.io"
     github = "https://github.com/cloudgear-io"
     linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
 
-#  [[params.team.item]]
-#    name = "Soumya Ranjan Rout"
-#    position = "Thor"
+  [[params.team.item]]
+    name = "Arindam  Karmakar"
+    position = "Chief Sales Officer"
 #    description = "Thunder from Above"
-#    img = "images/person5.jpg"
+    img = "images/person3.jpg"
     #facebook = "https://facebook.com/dwaib"
-#    twitter = "https://twitter.com/@soumyarout80"
+    twitter = "https://twitter.com/arindamkarmakar"
     #dribbble = "#"
     #instagram = "#"
 #    github = "https://github.com/soumyarout80"
-#    linkedin = "https://linkedin.com/in/soumya-rout"
+    linkedin = "https://www.linkedin.com/in/arindamkarmakar"
 
 # Contact section
 [params.contact]
