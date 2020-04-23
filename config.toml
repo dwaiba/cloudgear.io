@@ -169,7 +169,7 @@ title = "Welcome to cloudgear.io"
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "cloudgear is lean and automated, headquartered in Bangalore. Please fill in the contact form for slack notification and/or hit <a href='mailto:poke@cloudgear.io' target='_blank'>poke@cloudgear.io</a> for the demos and more."
+  description = "cloudgear is lean and automated, headquartered in Bangalore.Please fill in the <a href='http://bit.ly/3c9MtjA' target='_blank'>questionnaire</a> and please fill in the contact form for slack notification or <a href='https://calendar.google.com/calendar/selfsched?sstoken=UUlOdENTTEVGMzZkfGRlZmF1bHR8ZjBlMGRlYWMzN2UxYzNlZjg2MDE4MmZlYmY3NDVhZTE' target='_blank'>book an appointment</a> for the demos and more."
 
   [[params.team.item]]
     name = "Dwai Banerjee"
@@ -211,7 +211,7 @@ title = "Welcome to cloudgear.io"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Please fill in the <a href='http://bit.ly/3c9MtjA' target='_blank'>questionnaire</a> if possible and use the contact form for slack notification"
+  message = "Please fill in the <a href='http://bit.ly/3c9MtjA' target='_blank'>questionnaire</a> if possible and use the contact form for slack notification or <a href='https://calendar.google.com/calendar/selfsched?sstoken=UUlOdENTTEVGMzZkfGRlZmF1bHR8ZjBlMGRlYWMzN2UxYzNlZjg2MDE4MmZlYmY3NDVhZTE' target='_blank'>book an appointment</a> for the demos and more."
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
