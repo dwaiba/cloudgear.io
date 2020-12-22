@@ -32,7 +32,7 @@ title = "Welcome to cloudgear.io"
 
 # Mission section
 [params.mission]
-  enable = false
+  enable = true
 
   [params.mission.images]
     enable = true
@@ -46,21 +46,21 @@ title = "Welcome to cloudgear.io"
     [[params.mission.images.list]]
       img = "images/img_4.jpg"
 
-  #[[params.mission.item]]
+  [[params.mission.item]]
     weight = 1
     name = "financialriskmanagement"
     title = "Risk Management"
     subtitle = "Accurate Corporate Credit Rating Service"
     #description = "<p>Alerting Strategy: Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning.</p><ul class='checked'><li>Credit/Fraud Risk Modeling and Strategy</li><li>Risk Modeling</li><li>Enterprise Model Management Solution</li><li>Basel, CCAR, and Stress Testing</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Contact</a></p>"
 
-  #[[params.mission.item]]
+  [[params.mission.item]]
     weight = 2
     name = "analysis"
     title = "Boosting"
     subtitle = "Accelerate boosting models"
     description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-  #[[params.mission.item]]
+  [[params.mission.item]]
     weight = 3
     name = "strategy"
     title = "Strategy"
