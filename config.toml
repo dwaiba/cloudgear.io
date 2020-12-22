@@ -32,7 +32,7 @@ title = "Welcome to cloudgear.io"
 
 # Mission section
 [params.mission]
-  enable = false
+  enable = true
 
   [params.mission.images]
     enable = false
@@ -48,24 +48,24 @@ title = "Welcome to cloudgear.io"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = "Marketing"
-    subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    name = "financialriskmanagement"
+    title = "financialriskmanagement"
+    subtitle = "Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning."
+    description = "<p>Alerting Strategy: Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning.</p><ul class='checked'><li>Credit/Fraud Risk Modeling and Strategy</li><li>Risk Modeling</li><li>Enterprise Model Management Solution</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Basel, CCAR, and Stress Testing</a></p>"
 
-  [[params.mission.item]]
-    weight = 2
-    name = "analysis"
-    title = "Resources"
-    subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+  #[[params.mission.item]]
+  #  weight = 2
+  #  name = "analysis"
+  #  title = "Resources"
+  #  subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
+  #  description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-  [[params.mission.item]]
-    weight = 3
-    name = "strategy"
-    title = "Strategy"
-    subtitle = "Magnam iste obcaecati illo laboriosam amet. Dignissimos sed quis voluptatum corporis adipisci amet."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+  #[[params.mission.item]]
+  #  weight = 3
+  #  name = "strategy"
+  #  title = "Strategy"
+  #  subtitle = "Magnam iste obcaecati illo laboriosam amet. Dignissimos sed quis voluptatum corporis adipisci amet."
+  #  description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
 # Services section
 [params.services]
@@ -195,17 +195,17 @@ title = "Welcome to cloudgear.io"
     github = "https://github.com/cloudgear-io"
     #linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
 
-  #[[params.team.item]]
-  #  name = "Arindam  Karmakar"
-  #  position = "Chief Sales Officer"
-  #  description = ""
-  #  img = "images/person3.jpg"
-  #  #facebook = "https://facebook.com/dwaib"
-  #  twitter = "https://twitter.com/arindamkarmakar"
+  [[params.team.item]]
+    name = "Arindam  Karmakar"
+    position = "Chief Sales Officer"
+    description = ""
+    img = "images/person3.jpg"
+    #facebook = "https://facebook.com/dwaib"
+    twitter = "https://twitter.com/arindamkarmakar"
     #dribbble = "#"
     #instagram = "#"
-#    github = "https://github.com/soumyarout80"
-    #linkedin = "https://www.linkedin.com/in/arindamkarmakar"
+    github = "https://github.com/soumyarout80"
+    linkedin = "https://www.linkedin.com/in/arindamkarmakar"
 
 # Contact section
 [params.contact]
