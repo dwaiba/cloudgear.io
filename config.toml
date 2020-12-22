@@ -12,7 +12,7 @@ title = "Welcome to cloudgear.io"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better using cloud GPUs and Edge Devices."
+  title = "Rating Service using Deep Learning and ML"
   description = "Harness the power for a fast automated world."
   github = "https://github.com/cloudgear-io"
   twitter = "https://twitter.com/cloudgeario"
@@ -46,12 +46,12 @@ title = "Welcome to cloudgear.io"
     [[params.mission.images.list]]
       img = "images/img_4.jpg"
 
-  [[params.mission.item]]
-    weight = 1
-    name = "financialriskmanagement"
-    title = "financialriskmanagement"
-    subtitle = "Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning."
-    description = "<p>Alerting Strategy: Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning.</p><ul class='checked'><li>Credit/Fraud Risk Modeling and Strategy</li><li>Risk Modeling</li><li>Enterprise Model Management Solution</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Basel, CCAR, and Stress Testing</a></p>"
+  #[[params.mission.item]]
+  #  weight = 1
+  #  name = "financialriskmanagement"
+  #  title = "financialriskmanagement"
+  #  subtitle = "Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning."
+  #  description = "<p>Alerting Strategy: Predictive Anomaly Detection Modeling, Scenario/Model Management, List Matching, Threshold Tuning.</p><ul class='checked'><li>Credit/Fraud Risk Modeling and Strategy</li><li>Risk Modeling</li><li>Enterprise Model Management Solution</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Basel, CCAR, and Stress Testing</a></p>"
 
   #[[params.mission.item]]
   #  weight = 2
