@@ -172,6 +172,18 @@ title = "Welcome to cloudgear.io"
   description = "cloudgear is lean and automated, headquartered in Bangalore. Please fill in the contact form for slack notification or <a href='https://calendar.google.com/calendar/selfsched?sstoken=UUlOdENTTEVGMzZkfGRlZmF1bHR8ZjBlMGRlYWMzN2UxYzNlZjg2MDE4MmZlYmY3NDVhZTE' target='_blank'>book an appointment</a> for the demos and more."
 
   [[params.team.item]]
+    name = "Arindam  Karmakar"
+    position = "Chief Sales Officer"
+    description = ""
+    img = "images/person3.jpg"
+    #facebook = "https://facebook.com/dwaib"
+    twitter = "https://twitter.com/arindamkarmakar"
+    #dribbble = "#"
+    #instagram = "#"
+    github = "https://github.com/soumyarout80"
+    linkedin = "https://www.linkedin.com/in/arindamkarmakar"
+
+  [[params.team.item]]
     name = "Dwai Banerjee"
     position = "Focussed"
     description = ""
@@ -194,18 +206,6 @@ title = "Welcome to cloudgear.io"
     #instagram = "#"
     github = "https://github.com/cloudgear-io"
     #linkedin = "https://www.linkedin.com/in/sachinjambhulkar/"
-
-  [[params.team.item]]
-    name = "Arindam  Karmakar"
-    position = "Chief Sales Officer"
-    description = ""
-    img = "images/person3.jpg"
-    #facebook = "https://facebook.com/dwaib"
-    twitter = "https://twitter.com/arindamkarmakar"
-    #dribbble = "#"
-    #instagram = "#"
-    github = "https://github.com/soumyarout80"
-    linkedin = "https://www.linkedin.com/in/arindamkarmakar"
 
 # Contact section
 [params.contact]
