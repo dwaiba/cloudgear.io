@@ -180,7 +180,7 @@ title = "Welcome to cloudgear.io"
     twitter = "https://twitter.com/arindamkarmakar"
     #dribbble = "#"
     #instagram = "#"
-    github = "https://github.com/soumyarout80"
+    #github = "https://github.com/soumyarout80"
     linkedin = "https://www.linkedin.com/in/arindamkarmakar"
 
   [[params.team.item]]
@@ -197,8 +197,8 @@ title = "Welcome to cloudgear.io"
 
   [[params.team.item]]
     name = "Sachin Jambhulkar"
-    position = ""
-    description = "Program writer"
+    position = "Program writer"
+    description = ""
     img = "images/person2.jpg"
     #facebook = "#"
     twitter = "https://twitter.com/cloudgeario"
